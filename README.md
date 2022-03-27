@@ -20,7 +20,10 @@ secondaryBackgroundColor="#353737"
 textColor="#40f593"
 ```
 
-5. Navigate to the root directory of this repository and simply run the command: 
+5. Navigate to the root directory and create a folder with name `downloads`. Your directory structure should look like this:
+![dir](https://user-images.githubusercontent.com/29462447/160292986-e37c9269-36b9-4009-ac1b-c62125c2b185.png)
+
+6. Navigate to the root directory of this repository and simply run the command: 
 ```
 streamlit run app.py
 ```
