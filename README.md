@@ -4,7 +4,7 @@ A streamlit based webapp to download Ted Talks from their [official website](htt
 
 ### 🔴 THIS IS MEANT TO BE USED FOR EDUCATIONAL PURPOSES ONLY !! 🔴
 
-![Uploading demo.gif…]()
+![demo](https://user-images.githubusercontent.com/29462447/160293735-862421c2-e26b-44f4-9766-43032005b226.gif)
 
 ## Installation:
 * Simply run the command ***pip install -r requirements.txt*** to install the necessary dependencies.
